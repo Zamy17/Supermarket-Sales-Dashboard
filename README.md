@@ -11,7 +11,7 @@ This project is built as part of a **data analytics portfolio** to demonstrate s
 - Dashboard storytelling
 
 ---
-
+![dashboard](dashboard_preview.png)
 ## 🎯 Business Objectives
 - Measure overall business performance using quantitative KPIs
 - Analyze profitability and gross profit margin (GPM %)
